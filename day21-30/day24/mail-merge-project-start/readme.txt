@@ -1,0 +1,1 @@
+This project is for to learn file handling operations and how to create file in OUTPUT location in several names from a file in another location with small changes in it.
