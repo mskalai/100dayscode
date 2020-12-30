@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "email": "example@gmail.com",
+        "password": "w!5NFNUTXe)(N9oGSq!"
+    },
+    "Flipkart": {
+        "email": "fliplart@gmail.com",
+        "password": "ml##036"
+    },
+    "Twitter": {
+        "email": "example@gmail.com",
+        "password": "69rkZ6q+&A4Z"
+    },
+    "Github": {
+        "email": "github@gmail.com",
+        "password": "6C1EjVYA(b*tDTNMa"
+    }
+}
