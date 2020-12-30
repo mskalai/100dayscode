@@ -1,0 +1,1 @@
+This password manager is ued to save passwords for your websites and also to generate passwords for your website which can be copied in your clipboard it can be pasted on your sites.
