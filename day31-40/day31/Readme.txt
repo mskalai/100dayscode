@@ -1,0 +1,1 @@
+Each time when correct click is clicked the word is removed from unknown list and wrong button is used to move to next word in the list.
