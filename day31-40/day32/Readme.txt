@@ -1,0 +1,1 @@
+It generates the greeting mail based on the given birthday list.
